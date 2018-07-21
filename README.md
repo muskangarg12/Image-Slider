@@ -1,6 +1,6 @@
 # IMAGE SLIDER
 
-An Image Slider using jQuery Cycle Plugin.\
+An Image Slider using jQuery Cycle Plugin. <br /> 
 
 ## jQuery Cycle Plugin
 
